@@ -4,6 +4,6 @@ import React from 'react'
 
 export default function Page() {
   return (
-    <Hero imgUrl={ReliabilitySrc} content='Performance Cloud Hosting' altTxt='Reliability Image' />
+    <Hero imgUrl={ReliabilitySrc} content='222Performance Cloud Hosting' altTxt='Reliability Image' />
   )
 }

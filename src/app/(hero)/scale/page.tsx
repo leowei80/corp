@@ -4,6 +4,6 @@ import React from 'react'
 
 export default function Page() {
   return (
-        <Hero imgUrl={ScaleSrc} content='Scale Cloud Hosting' altTxt='Scale Image' />
+        <Hero imgUrl={ScaleSrc} content='333Scale Cloud Hosting' altTxt='Scale Image' />
   )
 }
